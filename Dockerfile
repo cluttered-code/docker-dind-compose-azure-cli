@@ -1,4 +1,4 @@
-FROM docker:clutteredcode/dind-compose
+FROM clutteredcode/dind-compose
 
 LABEL maintainer "David Clutter <cluttered.code@gmail.com>"
 
